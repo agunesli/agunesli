@@ -1,9 +1,9 @@
 ### Hi there, I'm Arzu !👋
 
-Student at 42Paris 💻, lifeguard in my spare time 🛟
-My favorite programming languages are C, C++, Python and Typescript 🧠
-I speak French, English, Turkish and a little Chinese 📢
-You can contact me at arzuguneslik@gmail.com 📬
+* Student at 42Paris 💻, lifeguard in my spare time 🛟
+* My favorite programming languages are C, C++, Python and Typescript 🧠
+* I speak French, English, Turkish and a little Chinese 📢
+* You can contact me at arzuguneslik@gmail.com 📬
 
 And if you want to see my profiles :
 - [LinkedIn] (www.linkedin.com/in/arzu-guneslik-94116a183)
